@@ -1,7 +1,7 @@
 //office
-{"serverAddress_":"10.132.125.223:2307"}
+{"serverAddress":"10.132.125.223:2307"}
 //pg
-{"serverAddress":"192.168.1.8:2307"}
+{"serverAddress_":"192.168.1.8:2307"}
 /
 
 

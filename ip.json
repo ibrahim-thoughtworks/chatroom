@@ -1,16 +1,16 @@
 //office
 {"serverAddress_":"10.132.125.223:2307"}
 //pg
-{"serverAddress":"192.168.1.41:2307"}
+{"serverAddress":"192.168.1.16:2307"}
 /
 
 
 //installation
 {"installationServer_":"10.132.125.223:2026"}
 //pg
-{"installationServer":"192.168.1.41:2026"}
+{"installationServer":"192.168.1.16:2026"}
 
 ////
 {"installerDownload_":"10.132.125.223:2004"}/
-{"installerDownloa":"192.168.1.41:2004"}/
+{"installerDownloa":"192.168.1.16:2004"}/
 

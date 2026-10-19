@@ -1,6 +1,6 @@
 //office
 {"serverAddress_":"10.132.125.223:2307"}
-{"serverAddress":"http://localhost:2307/"}
+{"serverAddress":"http://0.0.0.0:2307"}
 //pg
 {"serverAddress_":"192.168.1.33:2307"}
 /

@@ -7,11 +7,12 @@
 
 
 //installation
-{"installationServer":"10.132.125.223:2026"}
+{"installationServer":"http://0.0.0.0:2026"}
+{"installationServer_":"10.132.125.223:2026"}
 //pg
 {"installationServer_":"192.168.1.33:2026"}
 
 ////
-{"installerDownload":"10.132.125.223:2004"}/
-{"installerDownloa_":"192.168.1.33:2004"}/
+{"installerDownload_":"10.132.125.223:2004"}/
+{"installerDownload":"http://0.0.0.0:2004"}/
 
